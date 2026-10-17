@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "db9a718097c0b380cb56bea8",
+  "owner": "an6dhm",
+  "repo": "page-9052aa4add550b7ec6b48586",
+  "title": "汉堡(hbCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9052aa4add550b7ec6b48586",
+      "a": "汉堡(hbCloud)",
+      "b": "",
+      "entity": "汉堡(hbCloud)",
+      "brand": "汉堡(hbCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "088cdd2569051d84afc6ac941da9eb27b254f011f048cfee6f76e56f0bcf1ee4",
+      "content": {
+        "keyword1": "汉堡(hbCloud)",
+        "keyword2": "",
+        "primary_entity": "汉堡(hbCloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "汉堡(hbCloud)为你梳理简单明了的日常网络连接方案，像挑一份舒心汉堡套餐一样轻松选定适合自己的流量配额与使用节奏。",
+          "AI_DESCRIPTION": "汉堡(hbCloud)为你梳理简单明了的日常网络连接方案，像挑一份舒心汉堡套餐一样轻松选定适合自己的流量配额与使用节奏。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f7f4ee;color: #2b2523;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.6}\n.site-layout {display: flex;min-height: 100vh}\naside.sidebar {width: 240px;background-color: #eee9df;border-right: 2px solid #2b2523;padding: 36px 24px;flex-shrink: 0;display: flex;flex-direction: column;justify-content: space-between}\n.brand-badge {font-weight: 800;font-size: 1.1rem;letter-spacing: -0.5px;display: inline-block;background-color: #b83b26;color: #f7f4ee;padding: 6px 12px;border: 2px solid #2b2523;text-decoration: none;margin-bottom: 36px}\n.nav-menu {list-style: none;display: flex;flex-direction: column;gap: 14px}\n.nav-menu a {display: block;font-weight: 700;font-size: 0.95rem;color: #2b2523;text-decoration: none;padding: 8px 12px;border: 2px solid transparent}\n.nav-menu a:hover {background-color: #ffffff;border-color: #2b2523}\n.sidebar-footer {font-size: 0.8rem;color: #685e59;border-top: 2px solid #2b2523;padding-top: 16px}\nmain {flex-grow: 1;padding: 48px;max-width: 1080px}\nsection {margin-bottom: 64px}\nh1 {font-size: 2.2rem;font-weight: 900;line-height: 1.2;margin-bottom: 12px;color: #2b2523}\nh2 {font-size: 1.5rem;font-weight: 800;margin-bottom: 20px;display: inline-block;border-bottom: 4px solid #b83b26;padding-bottom: 4px}\nh3 {font-size: 1.15rem;font-weight: 700;margin-bottom: 8px}\np {margin-bottom: 14px;color: #403632}\n.dashboard-grid {display: grid;grid-template-columns: repeat(12, 1fr);gap: 16px;margin-top: 28px}\n.dash-tile {background-color: #ffffff;border: 2px solid #2b2523;padding: 20px}\n.tile-lead {grid-column: span 7;background-color: #fffaf5}\n.tile-metric {grid-column: span 5;background-color: #b83b26;color: #ffffff;display: flex;flex-direction: column;justify-content: center}\n.tile-metric p {color: #fceedb}\n.tile-stat {font-size: 3rem;font-weight: 900;line-height: 1;margin-bottom: 8px}\n.tile-sub-1 {grid-column: span 4}\n.tile-sub-2 {grid-column: span 4}\n.tile-sub-3 {grid-column: span 4}\n.plans-stack {display: flex;flex-direction: column;gap: 16px;margin-top: 20px}\n.plan-row {display: grid;grid-template-columns: 200px 180px 1fr 140px;align-items: center;background-color: #ffffff;border: 2px solid #2b2523;padding: 22px 24px;gap: 20px}\n.plan-row.recommended {background-color: #fff9f5;border: 3px solid #b83b26}\n.plan-title-block {display: flex;flex-direction: column;gap: 4px}\n.plan-name {font-size: 1.3rem;font-weight: 800}\n.badge-rec {display: inline-block;font-size: 0.75rem;font-weight: 700;background-color: #b83b26;color: #ffffff;padding: 2px 6px;width: fit-content}\n.price-main {font-size: 1.5rem;font-weight: 900;color: #b83b26}\n.price-sub {font-size: 0.85rem;color: #685e59}\n.features-tags {display: flex;flex-wrap: wrap;gap: 8px}\n.tag-item {font-size: 0.82rem;background-color: #eee9df;border: 1px solid #2b2523;padding: 4px 8px}\n.plan-action a {display: block;text-align: center;background-color: #2b2523;color: #ffffff;text-decoration: none;font-weight: 700;padding: 10px 14px;border: 2px solid #2b2523}\n.plan-action a:hover {background-color: #b83b26;border-color: #b83b26}\n.plan-row.recommended .plan-action a {background-color: #b83b26;border-color: #b83b26}\n.plan-row.recommended .plan-action a:hover {background-color: #2b2523;border-color: #2b2523}\n.guide-container {display: grid;grid-template-columns: 1fr 1fr;gap: 20px}\n.guide-box {background-color: #ffffff;border: 2px solid #2b2523;padding: 24px}\n.guide-list {list-style: square;padding-left: 20px;margin-top: 12px}\n.guide-list li {margin-bottom: 8px;font-size: 0.95rem}\n.faq-list {display: flex;flex-direction: column;gap: 16px;margin-top: 20px}\n.faq-entry {background-color: #ffffff;border: 2px solid #2b2523;padding: 24px;display: flex;gap: 24px;align-items: flex-start}\n.faq-num {font-size: 1.8rem;font-weight: 900;color: #b83b26;line-height: 1;width: 48px;flex-shrink: 0}\n.faq-content h3 {margin-bottom: 8px}\n.faq-content p {margin-bottom: 0;color: #4c423d}\n@media (max-width: 860px) {\n  .site-layout {flex-direction: column}\n  aside.sidebar {width: 100%;border-right: none;border-bottom: 2px solid #2b2523;padding: 20px}\n  .nav-menu {flex-direction: row;flex-wrap: wrap;gap: 8px}\n  main {padding: 24px 16px}\n  .dashboard-grid {grid-template-columns: 1fr}\n  .tile-lead, .tile-metric, .tile-sub-1, .tile-sub-2, .tile-sub-3 {grid-column: span 1}\n  .plan-row {grid-template-columns: 1fr;gap: 12px}\n  .guide-container {grid-template-columns: 1fr}\n  .faq-entry {flex-direction: column;gap: 10px}\n}\n</style><div class=\"site-layout\">\n  <aside class=\"sidebar\">\n    <div>\n      <a href=\"#\" class=\"brand-badge\">汉堡 hbCloud</a>\n      <ul class=\"nav-menu\">\n        <li><a href=\"#overview\">仪表盘概况</a></li>\n        <li><a href=\"#plans\">订阅套餐</a></li>\n        <li><a href=\"#setup\">客户端配置</a></li>\n        <li><a href=\"#faq\">常见问题答疑</a></li>\n      </ul>\n    </div>\n    <div class=\"sidebar-footer\">\n      汉堡(hbCloud) 实用订阅指南<br>保持连接，随心探索\n    </div>\n  </aside>\n\n  <main>\n    <section id=\"overview\">\n      <h1>汉堡(hbCloud) 选购与连接指南</h1>\n      <p>嗨，朋友！网络工具就像手里的咖啡或者爱吃的汉堡一样，不必搞得高深莫测，关键是顺手、实在、不操心。这里为你整理好了汉堡(hbCloud)的当下信息板，你可以快速了解各项安排。</p>\n\n      <div class=\"dashboard-grid\">\n        <div class=\"dash-tile tile-lead\">\n          <h3>今日服务状态</h3>\n          <p>核心接入节点集群保持日常轮转维护。无论你是查资料、看视频还是远程联络，挑选好适合自己的容量包，随时都能开工。</p>\n          <p>节点按地区均衡配置，支持主流桌面端与移动端核心通用代理软件载入。</p>\n        </div>\n        <div class=\"dash-tile tile-metric\">\n          <div class=\"tile-stat\">3 档</div>\n          <p>梯度套餐覆盖个人轻度到团队协作的多样需求。</p>\n        </div>\n        <div class=\"dash-tile tile-sub-1\">\n          <h3>设备配额灵活</h3>\n          <p>支持 3 到 20 台设备共同在线，手机、平板和笔记本不再需要抢位置。</p>\n        </div>\n        <div class=\"dash-tile tile-sub-2\">\n          <h3>分流协议通用</h3>\n          <p>支持多种开源及主流第三方内核，导入订阅链接即可读取对应规则。</p>\n        </div>\n        <div class=\"dash-tile tile-sub-3\">\n          <h3>按期弹性付款</h3>\n          <p>提供月付尝鲜与年付实惠折算，不被长周期绑定，完全看你的个人节奏。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2>选择适合你的套餐</h2>\n      <p>就像到柜台点单一样，按胃口大小挑一份就行。如果是初次了解，可以先选月付试试手感；要是用习惯了，年付通常会更省心。</p>\n\n      <div class=\"plans-stack\">\n        <article class=\"plan-row\">\n          <div class=\"plan-title-block\">\n            <span class=\"plan-name\">基础版</span>\n            <span class=\"tag-item\">轻度浏览</span>\n          </div>\n          <div>\n            <div class=\"price-main\">¥15 / 月</div>\n            <div class=\"price-sub\">按年付仅需 ¥150/年</div>\n          </div>\n          <div class=\"features-tags\">\n            <span class=\"tag-item\">每月 100GB 极速流量</span>\n            <span class=\"tag-item\">支持 3 台设备同时在线</span>\n            <span class=\"tag-item\">解锁基础流媒体</span>\n            <span class=\"tag-item\">普通线路节点池</span>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\">选择基础版</a>\n          </div>\n        </article>\n\n        <article class=\"plan-row recommended\">\n          <div class=\"plan-title-block\">\n            <span class=\"badge-rec\">大家常选</span>\n            <span class=\"plan-name\">旗舰版</span>\n            <span class=\"tag-item\">高频影音</span>\n          </div>\n          <div>\n            <div class=\"price-main\">¥35 / 月</div>\n            <div class=\"price-sub\">按年付仅需 ¥350/年</div>\n          </div>\n          <div class=\"features-tags\">\n            <span class=\"tag-item\">每月 300GB 极速流量</span>\n            <span class=\"tag-item\">支持 5 台设备同时在线</span>\n            <span class=\"tag-item\">全节点原生流媒体解锁</span>\n            <span class=\"tag-item\">IPLC 专线游戏加速优化</span>\n            <span class=\"tag-item\">7x24 优先工单支持</span>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\">选择旗舰版</a>\n          </div>\n        </article>\n\n        <article class=\"plan-row\">\n          <div class=\"plan-title-block\">\n            <span class=\"plan-name\">团队版</span>\n            <span class=\"tag-item\">多人协同</span>\n          </div>\n          <div>\n            <div class=\"price-main\">¥85 / 月</div>\n            <div class=\"price-sub\">按年付仅需 ¥850/年</div>\n          </div>\n          <div class=\"features-tags\">\n            <span class=\"tag-item\">每月 1000GB 极速流量</span>\n            <span class=\"tag-item\">支持 20 台设备同时在线</span>\n            <span class=\"tag-item\">VIP 专属高带宽节点</span>\n            <span class=\"tag-item\">支持企业定制路由</span>\n            <span class=\"tag-item\">专属客户经理服务</span>\n          </div>\n          <div class=\"plan-action\">\n            <a href=\"#\">选择团队版</a>\n          </div>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"setup\">\n      <h2>客户端配置与使用说明</h2>\n      <p>汉堡(hbCloud) 本身通过标准订阅地址分发配置。无论你日常习惯用 Windows、macOS、iOS 还是 Android，只需借助成熟的开源或第三方网络工具就能完成接入，没有强制捆绑软件的烦扰。</p>\n\n      <div class=\"guide-container\">\n        <div class=\"guide-box\">\n          <h3>三步配置流程</h3>\n          <ol class=\"guide-list\">\n            <li>在会员中心复制专属订阅链接（请妥善保管个人链接，不要分享给不相识的人）。</li>\n            <li>打开你在当前设备上使用的网络中继工具（如 Clash、Sing-box、Shadowrocket 等兼容软件）。</li>\n            <li>新建配置并粘贴订阅 URL，执行刷新，选择合适的节点与分流规则后开启代理。</li>\n          </ol>\n        </div>\n        <div class=\"guide-box\">\n          <h3>多平台支持提示</h3>\n          <ul class=\"guide-list\">\n            <li><strong>桌面电脑 (Windows / macOS / Linux)：</strong>推荐使用支持规则分流的客户端，既能访问特定服务，又不会影响微信、办公内网等国内流量。</li>\n            <li><strong>手机平板 (iOS / Android)：</strong>选择对应系统的主流通用工具，导入配置后允许添加系统 VPN 配置文件即可顺利运行。</li>\n            <li><strong>路由环境：</strong>如需软路由透明代理，可导出标准配置文件进行适配。</li>\n          </ul>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题答疑</h2>\n      <p>平时大家问得比较多的细节都在这里了。如果遇到别的情况，也可以随时联系支持渠道。</p>\n\n      <div class=\"faq-list\">\n        <article class=\"faq-entry\">\n          <div class=\"faq-num\">01</div>\n          <div class=\"faq-content\">\n            <h3>购买之后流量额度是怎么计算的？</h3>\n            <p>流量周期从你成功订阅激活的当天开始计算，按月度周期刷新。当月未使用的流量不会滚存到下一个周期，建议根据日常用量合理选择对应套餐。</p>\n          </div>\n        </article>\n\n        <article class=\"faq-entry\">\n          <div class=\"faq-num\">02</div>\n          <div class=\"faq-content\">\n            <h3>多台设备同时在线有限制吗？</h3>\n            <p>有的，每个套餐都有明确的最大同时在线数，比如基础版支持 3 台、旗舰版 5 台、团队版 20 台。超出数量可能会导致部分设备频繁掉线或无法握手，建议个人按需选购或避免账号外借。</p>\n          </div>\n        </article>\n\n        <article class=\"faq-entry\">\n          <div class=\"faq-num\">03</div>\n          <div class=\"faq-content\">\n            <h3>节点提示连接超时应该先检查什么？</h3>\n            <p>先别着急，朋友！你可以先在客户端里点击“更新订阅”，看看节点列表是不是有变动；接着检查设备系统时间是否精准到秒（时间偏差往往会导致认证失败）；最后换一个节点试一试，通常就能恢复。</p>\n          </div>\n        </article>\n\n        <article class=\"faq-entry\">\n          <div class=\"faq-num\">04</div>\n          <div class=\"faq-content\">\n            <h3>旗舰版的专线和基础版普通节点有什么不同？</h3>\n            <p>旗舰版包含了专线优化节点与更全面的流媒体解锁支持，在高峰期国际网络波动时，专线能提供更平稳的延迟和更低的丢包率，很适合对游戏和超清视频有要求的伙伴。</p>\n          </div>\n        </article>\n      </div>\n    </section>\n  </main>\n</div>",
+          "hash": "79f3b9e29ac3c14395a026afe9a1aba781f8a63676990eca65fc83740085291d",
+          "seo": {
+            "title": "汉堡(hbCloud) - 稳定随行的网络中继与日常订阅指南",
+            "keywords": "汉堡, hbCloud, 汉堡云, 网络节点, 流量订阅, 客户端配置",
+            "description": "汉堡(hbCloud)为你梳理简单明了的日常网络连接方案，像挑一份舒心汉堡套餐一样轻松选定适合自己的流量配额与使用节奏。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "211",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5vk0xg.cn",
+    "host": "p-e91a0a611a.5vk0xg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b0517bd88be340917157d40f6abe87883528640f802acfb04b8301ef25464866",
+    "sitemap.xml": "c8b8af81bc0bc1abe61d3f795bcfe910209ae2cea53ac026251b2e504a26f7ae",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e0f99d8867524dd76fcc94ed0e1b0c1703cbcea5b16a96015a52e609dbdfbe18",
+    "robots.txt": "5765336e81125e930cb293f815ceab2ad9d834033f53a19b5482cd76aed084e2",
+    "aa759ee61be5e08ee1695d241924dce5.txt": "8c6803cf48d5d8e8aed420a8ad175c69f3f1633135cf15cc9c990ead30a28ecf"
+  },
+  "revision": "7434c4df678721dd64fa623e1e4ac42c412c68eca46b0f3d35361ac49fdb75ec"
+}
